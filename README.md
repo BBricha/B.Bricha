@@ -16,7 +16,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://b-bricha.vercel.app/" target="_blank">click here</a>includes my github projects and my resume<br/>
+My personal portfolio <a href="https://b-bricha.vercel.app/" target="_blank">click here</a> to access it. It includes my github projects and my resume<br/>
 
  Built using:
 
